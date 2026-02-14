@@ -1,0 +1,2 @@
+# VibeChef AI
+Initial commit
